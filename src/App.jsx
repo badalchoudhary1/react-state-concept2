@@ -1,9 +1,10 @@
-import TodoList from './TodoList'
+
 import './App.css'
+import Counter from './Counter'
 function App() {
   return (
     <>
-      <TodoList />
+      <Counter />
     </>
   )
 }
