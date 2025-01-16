@@ -21,7 +21,7 @@ getFirstJoke();
 
     return(
         <div>
-            <h3>Joker!</h3>
+            <h3>Joker</h3>
             <h2>{joke.setup}</h2>
             <h2>{joke.punchline}</h2>
             <button onClick={getNewJoke}>New Joke</button>
